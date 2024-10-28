@@ -4,7 +4,6 @@ A Space Shooter 2D game created in Python 3 using Pygames. It takes inspiration 
 
 #Demonstration
 
-
 #How to Play
 Clone this repository
 Open the cloned repository
